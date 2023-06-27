@@ -22,8 +22,10 @@ struct ContentView: View {
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
                 .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
-           
             
+            Text ("Hello!")
+           
+          //This is a comments
         }
     }
     
